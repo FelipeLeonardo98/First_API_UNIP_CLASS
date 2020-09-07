@@ -1,0 +1,19 @@
+{
+  "name": "first_api_unip_class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeLeonardo98/First_API_UNIP_CLASS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeLeonardo98/First_API_UNIP_CLASS/issues"
+  },
+  "homepage": "https://github.com/FelipeLeonardo98/First_API_UNIP_CLASS#readme"
+}
