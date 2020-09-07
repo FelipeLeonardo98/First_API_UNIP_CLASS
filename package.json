@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/FelipeLeonardo98/First_API_UNIP_CLASS/issues"
   },
-  "homepage": "https://github.com/FelipeLeonardo98/First_API_UNIP_CLASS#readme"
+  "homepage": "https://github.com/FelipeLeonardo98/First_API_UNIP_CLASS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-status": "^1.4.2",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.5"
+  }
 }
